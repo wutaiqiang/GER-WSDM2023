@@ -1,8 +1,8 @@
 # GER-WSDM2023
 This repo contains the code for our WSDM 2023 paper:
-[Modeling Fine-grained Information via Knowledge-aware Hierarchical Graph for Zero-shot Entity Retrieval](https://arxiv.org/pdf/2211.10991v1.pdf?_blank") by [Taiqiang Wu](https://wutaiqiang.github.io?_blank), Xingyu Bai, Weigang Guo, Weijie Liu, Siheng Li, Yujiu Yang.
+<a href="https://arxiv.org/pdf/2211.10991v1.pdf" target="_blank">Modeling Fine-grained Information via Knowledge-aware Hierarchical Graph for Zero-shot Entity Retrieval</a> by <a href="https://wutaiqiang.github.io" target="_blank">Taiqiang Wu</a>, Xingyu Bai, Weigang Guo, Weijie Liu, Siheng Li, Yujiu Yang.
 
-There is an [explaination blog](https://zhuanlan.zhihu.com/p/587811299?_blank) for this paper (in Chinese).
+There is an <a href="https://zhuanlan.zhihu.com/p/587811299" target="_blank"> explaination blog </a> for this paper (in Chinese).
 
 
 ## Overview
@@ -27,9 +27,9 @@ pip install -r requirement.txt
 
 ### Data Preprocess
 
-For Zeshel and other entity linking dataset, please follow [this](https://github.com/facebookresearch/BLINK?_blank) to get them. Put the data into folder: data/zeshel/blink_format  data/zeshel/documents. When training, we will preprocess the data for the first time and reuse the cache after that. The preprocess may take a while. 
+For Zeshel and other entity linking dataset, please follow <a href="https://github.com/facebookresearch/BLINK" target="_blank"> this </a> to get them. Put the data into folder: data/zeshel/blink_format  data/zeshel/documents. When training, we will preprocess the data for the first time and reuse the cache after that. The preprocess may take a while. 
 
-Also, you can download the processed data via [this](https://pan.baidu.com/s/1hWIKYPVFqn0zxCJWwJlLgQ?pwd=y41r?_blank) directly.
+Also, you can download the processed data via <a href="https://pan.baidu.com/s/1hWIKYPVFqn0zxCJWwJlLgQ?pwd=y41r" target="_blank"> this </a> directly.
 
 ### Entity Retrival
 
@@ -112,4 +112,4 @@ Please cite our paper if you find this paper helpful
 If you have any question, please contact via github issue or email me through wtq20(AT).mails.tsinghua.edu.cn 
 
 ---
-This code is modified based on [MuVER](https://github.com/Alibaba-NLP/MuVER?_blank), we thank for their efforts.
+This code is modified based on <a href="https://github.com/Alibaba-NLP/MuVER" target="_blank"> MuVER </a>, we thank for their efforts.
