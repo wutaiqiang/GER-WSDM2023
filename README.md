@@ -109,7 +109,7 @@ Please cite our paper if you find this paper helpful
 
 ## Contact
 
-If you have any question, please contact via github issue or email me through wtq20(AT).mails.tsinghua.edu.cn 
+If you have any question, please contact via github issue or email me through wtq20(AT)mails.tsinghua.edu.cn 
 
 ---
 This code is modified based on <a href="https://github.com/Alibaba-NLP/MuVER" target="_blank"> MuVER </a>, we thank for their efforts.
