@@ -1,6 +1,6 @@
 # GER-WSDM2023
 This repo contains the code for our WSDM 2023 paper:
-<a href="https://arxiv.org/pdf/2211.10991v1.pdf" target="_blank">Modeling Fine-grained Information via Knowledge-aware Hierarchical Graph for Zero-shot Entity Retrieval</a> by <a href="https://wutaiqiang.github.io" target="_blank">Taiqiang Wu</a>, Xingyu Bai, Weigang Guo, Weijie Liu, Siheng Li, Yujiu Yang.
+<a href="https://dl.acm.org/doi/10.1145/3539597.3570415" target="_blank">Modeling Fine-grained Information via Knowledge-aware Hierarchical Graph for Zero-shot Entity Retrieval</a> by <a href="https://wutaiqiang.github.io" target="_blank">Taiqiang Wu</a>, Xingyu Bai, Weigang Guo, Weijie Liu, Siheng Li, Yujiu Yang.
 
 There is an <a href="https://zhuanlan.zhihu.com/p/587811299" target="_blank"> explaination blog </a> for this paper (in Chinese).
 
