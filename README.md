@@ -85,24 +85,26 @@ For entity ranking stage, you can refer to the bash/cross/start.sh.
 
 Please cite our paper if you find this paper helpful
 ```
-@article{DBLP:journals/corr/abs-2211-10991,
+@inproceedings{DBLP:conf/aaai/WuBY22,
   author    = {Taiqiang Wu and
                Xingyu Bai and
-               Weigang Guo and
-               Weijie Liu and
-               Siheng Li and
                Yujiu Yang},
-  title     = {Modeling Fine-grained Information via Knowledge-aware Hierarchical
-               Graph for Zero-shot Entity Retrieval},
-  journal   = {CoRR},
-  volume    = {abs/2211.10991},
+  editor    = {Amir Pouran Ben Veyseh and
+               Franck Dernoncourt and
+               Thien Huu Nguyen and
+               Walter Chang and
+               Viet Dack Lai},
+  title     = {Prompt-based Model for Acronym Disambiguation via Negative Sampling},
+  booktitle = {Proceedings of the Workshop on Scientific Document Understanding co-located
+               with 36th {AAAI} Conference on Artificial Inteligence, SDU@AAAI 2022,
+               Virtual Event, March 1, 2022},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {3164},
+  publisher = {CEUR-WS.org},
   year      = {2022},
-  url       = {https://doi.org/10.48550/arXiv.2211.10991},
-  doi       = {10.48550/arXiv.2211.10991},
-  eprinttype = {arXiv},
-  eprint    = {2211.10991},
-  timestamp = {Thu, 24 Nov 2022 15:52:33 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2211-10991.bib},
+  url       = {http://ceur-ws.org/Vol-3164/paper26.pdf},
+  timestamp = {Sun, 02 Oct 2022 15:53:29 +0200},
+  biburl    = {https://dblp.org/rec/conf/aaai/WuBY22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
