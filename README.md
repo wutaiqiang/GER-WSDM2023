@@ -85,26 +85,30 @@ For entity ranking stage, you can refer to the bash/cross/start.sh.
 
 Please cite our paper if you find this paper helpful
 ```
-@inproceedings{DBLP:conf/aaai/WuBY22,
+@inproceedings{DBLP:conf/wsdm/WuBG0LY23,
   author    = {Taiqiang Wu and
                Xingyu Bai and
+               Weigang Guo and
+               Weijie Liu and
+               Siheng Li and
                Yujiu Yang},
-  editor    = {Amir Pouran Ben Veyseh and
-               Franck Dernoncourt and
-               Thien Huu Nguyen and
-               Walter Chang and
-               Viet Dack Lai},
-  title     = {Prompt-based Model for Acronym Disambiguation via Negative Sampling},
-  booktitle = {Proceedings of the Workshop on Scientific Document Understanding co-located
-               with 36th {AAAI} Conference on Artificial Inteligence, SDU@AAAI 2022,
-               Virtual Event, March 1, 2022},
-  series    = {{CEUR} Workshop Proceedings},
-  volume    = {3164},
-  publisher = {CEUR-WS.org},
-  year      = {2022},
-  url       = {http://ceur-ws.org/Vol-3164/paper26.pdf},
-  timestamp = {Sun, 02 Oct 2022 15:53:29 +0200},
-  biburl    = {https://dblp.org/rec/conf/aaai/WuBY22.bib},
+  editor    = {Tat{-}Seng Chua and
+               Hady W. Lauw and
+               Luo Si and
+               Evimaria Terzi and
+               Panayiotis Tsaparas},
+  title     = {Modeling Fine-grained Information via Knowledge-aware Hierarchical
+               Graph for Zero-shot Entity Retrieval},
+  booktitle = {Proceedings of the Sixteenth {ACM} International Conference on Web
+               Search and Data Mining, {WSDM} 2023, Singapore, 27 February 2023 -
+               3 March 2023},
+  pages     = {1021--1029},
+  publisher = {{ACM}},
+  year      = {2023},
+  url       = {https://doi.org/10.1145/3539597.3570415},
+  doi       = {10.1145/3539597.3570415},
+  timestamp = {Fri, 24 Feb 2023 13:56:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/wsdm/WuBG0LY23.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
